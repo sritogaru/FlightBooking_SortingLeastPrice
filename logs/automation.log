@@ -1,0 +1,12 @@
+19:49:05.749 [main] INFO  testClass.FlightBooking - -----Select destination city and departure city-----
+19:49:06.339 [main] INFO  testClass.FlightBooking - -----verify table data-----
+19:49:06.850 [main] INFO  testClass.FlightBooking - -----SeEnter required flight reserve details-----
+19:49:08.369 [main] INFO  testClass.FlightBooking - -----verify confirmation msg and exit-----
+19:51:16.982 [main] DEBUG testClass.FlightBooking - -----Select destination city and departure city-----
+19:51:17.494 [main] DEBUG testClass.FlightBooking - -----verify table data-----
+19:51:18.043 [main] DEBUG testClass.FlightBooking - -----SeEnter required flight reserve details-----
+19:51:19.449 [main] DEBUG testClass.FlightBooking - -----verify confirmation msg and exit-----
+19:52:15.599 [main] DEBUG testClass.FlightBooking - -----Select destination city and departure city-----
+19:52:16.168 [main] DEBUG testClass.FlightBooking - -----verify table data-----
+19:52:16.722 [main] DEBUG testClass.FlightBooking - -----SeEnter required flight reserve details-----
+19:52:18.168 [main] DEBUG testClass.FlightBooking - -----verify confirmation msg and exit-----

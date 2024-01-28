@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="utilities.ExtentReportUtility"/>
+  </listeners>
+  <test thread-count="5" name="ActionsTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="testClass.FlightBooking">
+        <methods>
+          <include name="setup"/>
+          <include name="BookFlight"/>
+        </methods>
+      </class> <!-- testClass.FlightBooking -->
+    </classes>
+  </test> <!-- ActionsTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
